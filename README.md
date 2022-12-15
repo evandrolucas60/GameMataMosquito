@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O projeto consiste na criação de um counter.
+Game no qual o objetivo do jogador é matar todos os mosquistos. O game possui três níveis de dificuldade e HUD que mostra as vidas do jogador. 
 
 ## Layout web
 ![Mobile 1](https://github.com/evandrolucas60/readme-assets-repository/blob/main/Mata%20Mosquito.gif)
